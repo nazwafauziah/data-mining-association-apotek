@@ -26,7 +26,7 @@ pendekatan framework **CRISP-DM**.
 
 ## 📊 Dataset
 - **Nama Dataset:** Pharmacy Transactional Dataset
-- **Sumber:** [Kaggle - Pharmacy Transactional Dataset](https://www.kaggle.com/datasets/goransaman/pharmacy-transactional-dataset)
+- **Sumber:** https://www.kaggle.com/datasets/goransaman/pharmacy-transactional-dataset
 - **Jumlah Data:** 59.402 baris
 
 ---
