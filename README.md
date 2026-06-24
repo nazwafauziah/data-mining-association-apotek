@@ -33,7 +33,7 @@ pendekatan framework **CRISP-DM**.
 
 ## 🔧 Tools & Library
 - Python 3
-- Jupyter Notebook / Google Colab
+- Jupyter Notebook 
 - pandas, mlxtend, matplotlib, seaborn
 
 ---
