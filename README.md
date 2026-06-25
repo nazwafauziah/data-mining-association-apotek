@@ -29,26 +29,10 @@ pendekatan framework **CRISP-DM**.
 - **Sumber:** https://www.kaggle.com/datasets/goransaman/pharmacy-transactional-dataset
 - **Jumlah Data:** 59.402 baris
 
----
 
-## 🔧 Tools & Library
-- Python 3
-- Jupyter Notebook 
-- pandas, mlxtend, matplotlib, seaborn
-
----
-
-## 📁 Struktur Repository
-```
-├── analisis_pola_pembelian_obat.ipynb
-├── Ph01_Z01_C01.csv
-└── README.md
-```
-
----
 
 ## 🌐 Link Publikasi
 | Platform | Link |
 |---|---|
 | 🌍 Google Sites | https://sites.google.com/global.ac.id/data-sience-portofolio/home?authuser=0 
-| 🎥 YouTube | [Klik di sini](#) ← ganti dengan link YouTube kamu |
+| 🎥 YouTube | https://youtu.be/G8KMg_oz39s
