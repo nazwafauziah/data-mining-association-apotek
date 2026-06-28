@@ -34,5 +34,5 @@ pendekatan framework **CRISP-DM**.
 ## 🌐 Link Publikasi
 | Platform | Link |
 |---|---|
-| 🌍 Google Sites | https://sites.google.com/global.ac.id/data-sience-portofolio/home?authuser=0 
+| 🌍 Google Sites | https://sites.google.com/global.ac.id/data-sience-portofolio?usp=sharing 
 | 🎥 YouTube | https://youtu.be/G8KMg_oz39s
